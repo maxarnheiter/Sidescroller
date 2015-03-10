@@ -1,5 +1,7 @@
 fileFormatVersion: 2
 guid: 0196a76bdccbf1b4797f6a3519d339cd
+timeCreated: 1425938497
+licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
     21300000: spritesheet_0
@@ -143,6 +145,15 @@ TextureImporter:
     21300276: spritesheet_138
     21300278: spritesheet_139
     21300280: spritesheet_140
+    21300282: spritesheet_141
+    21300284: spritesheet_142
+    21300286: spritesheet_143
+    21300288: spritesheet_144
+    21300290: spritesheet_145
+    21300292: spritesheet_146
+    21300294: spritesheet_147
+    21300296: spritesheet_148
+    21300298: spritesheet_149
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -161,6 +172,9 @@ TextureImporter:
   isReadable: 0
   grayScaleToAlpha: 0
   generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -3
   maxTextureSize: 4096
@@ -171,6 +185,7 @@ TextureImporter:
     wrapMode: 0
   nPOTScale: 0
   lightmap: 0
+  rGBM: 0
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
@@ -1594,5 +1609,97 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_141
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 199
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_142
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 152
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_143
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 115
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_144
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 92
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_145
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 121
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_146
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 137
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_147
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 152
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_148
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 199
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_149
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 182
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 
+  assetBundleName: 
+  assetBundleVariant: 
